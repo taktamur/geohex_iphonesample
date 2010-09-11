@@ -1,0 +1,751 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* GeoHex */ = {
+		activeExec = 0;
+		executables = (
+			3BA3629B123202E7009DDCE8 /* GeoHex */,
+		);
+	};
+	289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {719, 350}}";
+			sepNavSelRange = "{198, 0}";
+			sepNavVisRange = "{0, 368}";
+		};
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {677, 2595}}";
+			sepNavSelRange = "{183, 0}";
+			sepNavVisRange = "{0, 433}";
+			sepNavWindowFrame = "{{38, 149}, {1158, 603}}";
+		};
+	};
+	289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {744, 432}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 468}";
+		};
+	};
+	289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {744, 992}}";
+			sepNavSelRange = "{216, 0}";
+			sepNavVisRange = "{3, 455}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3BA3629B123202E7009DDCE8 /* GeoHex */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GeoHex */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GeoHex */,
+		);
+		breakpoints = (
+			3B9A43D81233E36200EA7B57 /* main.m:14 */,
+			3B9A44191233E84000EA7B57 /* GeoHex.m:31 */,
+			3B9A446812351D5600EA7B57 /* GeoHex.m:31 */,
+			3B9A44C61235322800EA7B57 /* GeoHex.m:31 */,
+			3B9A44C81235323700EA7B57 /* GeoHex.m:53 */,
+			3B9A44E61235333400EA7B57 /* GeoHex.m:52 */,
+			3B9A45281235361000EA7B57 /* GeoHex.m:63 */,
+			3B9A45321235373900EA7B57 /* GeoHex.m:86 */,
+			3B9A453F1235388600EA7B57 /* GeoHex.m:125 */,
+			3B999BEF12365A1A00832E64 /* MainViewController.m:50 */,
+			3B85F5D812366F5200C0E4DB /* GeoHex.m:161 */,
+			3B85F5DF12366F6F00C0E4DB /* GeoHex.m:47 */,
+			3B85F5FF1236718700C0E4DB /* MainViewController.m:63 */,
+			3BEFD4AE1237C2180047F59C /* GeoHexMapView.m:24 */,
+			3BEFD5001237C9F60047F59C /* MainViewController.m:73 */,
+			3BEFD5121237CA650047F59C /* GeoHexMapView.m:24 */,
+			3BEFD5291237CB140047F59C /* MainViewController.m:90 */,
+			3BEFD5711237CF160047F59C /* MainViewController.m:103 */,
+			3BEFD645123B46BB0047F59C /* MainViewController.m:49 */,
+			3BEFD659123B46E00047F59C /* GeoHex.m:42 */,
+			3BEFD668123B49B80047F59C /* MainViewController.m:56 */,
+		);
+		codeSenseManager = 3BA362B4123202EF009DDCE8 /* Code sense */;
+		executables = (
+			3BA3629B123202E7009DDCE8 /* GeoHex */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					499,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					542,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 305879300;
+			PBXWorkspaceStateSaveDate = 305879300;
+		};
+		perUserProjectItems = {
+			3B9A44091233E6E400EA7B57 /* PBXTextBookmark */ = 3B9A44091233E6E400EA7B57 /* PBXTextBookmark */;
+			3B9A442C1233E90900EA7B57 /* PBXTextBookmark */ = 3B9A442C1233E90900EA7B57 /* PBXTextBookmark */;
+			3B9A445112351A3D00EA7B57 /* PBXTextBookmark */ = 3B9A445112351A3D00EA7B57 /* PBXTextBookmark */;
+			3BEFD4D11237C5060047F59C /* PBXTextBookmark */ = 3BEFD4D11237C5060047F59C /* PBXTextBookmark */;
+			3BEFD6FD123B58D40047F59C /* PBXTextBookmark */ = 3BEFD6FD123B58D40047F59C /* PBXTextBookmark */;
+			3BEFD6FE123B58D40047F59C /* PBXTextBookmark */ = 3BEFD6FE123B58D40047F59C /* PBXTextBookmark */;
+			3BEFD6FF123B58D40047F59C /* PBXTextBookmark */ = 3BEFD6FF123B58D40047F59C /* PBXTextBookmark */;
+			3BEFD700123B58D40047F59C /* PBXTextBookmark */ = 3BEFD700123B58D40047F59C /* PBXTextBookmark */;
+			3BEFD703123B58D40047F59C /* PBXTextBookmark */ = 3BEFD703123B58D40047F59C /* PBXTextBookmark */;
+			3BEFD737123B59430047F59C /* PBXTextBookmark */ = 3BEFD737123B59430047F59C /* PBXTextBookmark */;
+			3BEFD738123B59430047F59C /* PBXTextBookmark */ = 3BEFD738123B59430047F59C /* PBXTextBookmark */;
+			3BEFD741123B59560047F59C /* PBXTextBookmark */ = 3BEFD741123B59560047F59C /* PBXTextBookmark */;
+			3BEFD742123B59560047F59C /* PBXTextBookmark */ = 3BEFD742123B59560047F59C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3BA362B3123202EF009DDCE8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {744, 592}}";
+			sepNavSelRange = "{538, 0}";
+			sepNavVisRange = "{60, 543}";
+		};
+	};
+	3B85F5D812366F5200C0E4DB /* GeoHex.m:161 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		functionName = "+polygonFromZone:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 161;
+		location = GeoHex;
+		modificationTime = 305879365.991811;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3B85F5DF12366F6F00C0E4DB /* GeoHex.m:47 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		functionName = "+loc2xy:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 47;
+		location = GeoHex;
+		modificationTime = 305879365.991867;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3B85F5FF1236718700C0E4DB /* MainViewController.m:63 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 63;
+		location = GeoHex;
+		modificationTime = 305879365.991932;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3B999BEF12365A1A00832E64 /* MainViewController.m:50 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 50;
+		location = GeoHex;
+		modificationTime = 305879365.991714;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3B999C2312365FC600832E64 /* GeoHexZone.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {677, 512}}";
+			sepNavSelRange = "{187, 0}";
+			sepNavVisRange = "{28, 448}";
+		};
+	};
+	3B999C2412365FC600832E64 /* GeoHexZone.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {677, 640}}";
+			sepNavSelRange = "{164, 0}";
+			sepNavVisRange = "{25, 439}";
+			sepNavWindowFrame = "{{38, 149}, {1158, 603}}";
+		};
+	};
+	3B9A43D81233E36200EA7B57 /* main.m:14 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 29B97316FDCFA39411CA2CEA /* main.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 14;
+		location = GeoHex;
+		modificationTime = 305879365.990995;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3B9A43FD1233E44A00EA7B57 /* GeoHex.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {677, 384}}";
+			sepNavSelRange = "{424, 50}";
+			sepNavVisRange = "{27, 453}";
+		};
+	};
+	3B9A43FE1233E44A00EA7B57 /* GeoHex.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 3504}}";
+			sepNavSelRange = "{2474, 0}";
+			sepNavVisRange = "{0, 580}";
+			sepNavWindowFrame = "{{118, 47}, {1158, 603}}";
+		};
+	};
+	3B9A44091233E6E400EA7B57 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */;
+		name = "FlipsideViewController.m: 12";
+		rLen = 0;
+		rLoc = 216;
+		rType = 0;
+		vrLen = 455;
+		vrLoc = 3;
+	};
+	3B9A44191233E84000EA7B57 /* GeoHex.m:31 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		functionName = "-init";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 31;
+		location = GeoHex;
+		modificationTime = 305879365.991051;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3B9A442C1233E90900EA7B57 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 28";
+		rLen = 0;
+		rLoc = 538;
+		rType = 0;
+		vrLen = 543;
+		vrLoc = 60;
+	};
+	3B9A445112351A3D00EA7B57 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B9A445212351A3D00EA7B57 /* MainViewController.m */;
+		name = "MainViewController.m: 41";
+		rLen = 10;
+		rLoc = 1023;
+		rType = 0;
+		vrLen = 700;
+		vrLoc = 662;
+	};
+	3B9A445212351A3D00EA7B57 /* MainViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = MainViewController.m;
+		path = /Users/tak/Desktop/MapView/Classes/MainViewController.m;
+		sourceTree = "<absolute>";
+	};
+	3B9A446812351D5600EA7B57 /* GeoHex.m:31 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		functionName = "-init";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 31;
+		location = GeoHex;
+		modificationTime = 305879365.991212;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3B9A44C61235322800EA7B57 /* GeoHex.m:31 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		functionName = "-init";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 31;
+		location = GeoHex;
+		modificationTime = 305879365.991292;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3B9A44C81235323700EA7B57 /* GeoHex.m:53 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		functionName = "-zoneFromLocation:withLevel:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 53;
+		location = GeoHex;
+		modificationTime = 305879365.991349;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3B9A44E61235333400EA7B57 /* GeoHex.m:52 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		functionName = "-zoneFromLocation:withLevel:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 52;
+		location = GeoHex;
+		modificationTime = 305879365.991422;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3B9A45281235361000EA7B57 /* GeoHex.m:63 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		functionName = "-zoneFromLocation:withLevel:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 63;
+		location = GeoHex;
+		modificationTime = 305879365.991472;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3B9A45321235373900EA7B57 /* GeoHex.m:86 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		functionName = "-zoneFromLocation:withLevel:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 86;
+		location = GeoHex;
+		modificationTime = 305879365.991585;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3B9A453F1235388600EA7B57 /* GeoHex.m:125 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		functionName = "-zoneFromLocation:withLevel:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 125;
+		location = GeoHex;
+		modificationTime = 305879365.991661;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3BA3629B123202E7009DDCE8 /* GeoHex */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GeoHex;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	3BA362B3123202EF009DDCE8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3BA362B4123202EF009DDCE8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3BEFD4671237BDF80047F59C /* GeoHexMapView.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = GeoHexMapView.m;
+		path = /Users/tak/Desktop/GeoHex/GeoHexMapView.m;
+		sourceTree = "<absolute>";
+	};
+	3BEFD4AE1237C2180047F59C /* GeoHexMapView.m:24 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3BEFD4671237BDF80047F59C /* GeoHexMapView.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 24;
+		modificationTime = 305879365.991994;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	3BEFD4D11237C5060047F59C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */;
+		name = "FlipsideViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 468;
+		vrLoc = 0;
+	};
+	3BEFD5001237C9F60047F59C /* MainViewController.m:73 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-viewForAnnotation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 73;
+		location = GeoHex;
+		modificationTime = 305879365.992021;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3BEFD5121237CA650047F59C /* GeoHexMapView.m:24 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3BEFD4671237BDF80047F59C /* GeoHexMapView.m */;
+		functionName = "-viewForAnnotation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 24;
+		modificationTime = 305879365.992084;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	3BEFD5291237CB140047F59C /* MainViewController.m:90 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-mapView:viewForAnnotation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 90;
+		location = GeoHex;
+		modificationTime = 305879365.992118;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3BEFD5711237CF160047F59C /* MainViewController.m:103 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-mapView:annotationView:didChangeDragState:fromOldState:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 103;
+		location = GeoHex;
+		modificationTime = 305879365.99223;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3BEFD645123B46BB0047F59C /* MainViewController.m:49 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 49;
+		location = GeoHex;
+		modificationTime = 305879365.992315;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3BEFD659123B46E00047F59C /* GeoHex.m:42 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		functionName = "+loc2xy:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 42;
+		location = GeoHex;
+		modificationTime = 305879365.992376;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3BEFD668123B49B80047F59C /* MainViewController.m:56 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 56;
+		location = GeoHex;
+		modificationTime = 305879365.992447;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	3BEFD6FD123B58D40047F59C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B9A43FD1233E44A00EA7B57 /* GeoHex.h */;
+		name = "GeoHex.h: 21";
+		rLen = 50;
+		rLoc = 424;
+		rType = 0;
+		vrLen = 453;
+		vrLoc = 27;
+	};
+	3BEFD6FE123B58D40047F59C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B999C2412365FC600832E64 /* GeoHexZone.m */;
+		name = "GeoHexZone.m: 10";
+		rLen = 0;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 439;
+		vrLoc = 25;
+	};
+	3BEFD6FF123B58D40047F59C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B999C2312365FC600832E64 /* GeoHexZone.h */;
+		name = "GeoHexZone.h: 12";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 28;
+	};
+	3BEFD700123B58D40047F59C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		name = "GeoHex.m: 12";
+		rLen = 198;
+		rLoc = 162;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	3BEFD703123B58D40047F59C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		name = "GeoHex.m: 110";
+		rLen = 0;
+		rLoc = 2474;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 0;
+	};
+	3BEFD737123B59430047F59C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 11";
+		rLen = 0;
+		rLoc = 198;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	3BEFD738123B59430047F59C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 101";
+		rLen = 0;
+		rLoc = 2885;
+		rType = 0;
+		vrLen = 544;
+		vrLoc = 3056;
+	};
+	3BEFD741123B59560047F59C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 10";
+		rLen = 0;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 433;
+		vrLoc = 0;
+	};
+	3BEFD742123B59560047F59C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B9A43FE1233E44A00EA7B57 /* GeoHex.m */;
+		name = "GeoHex.m: 110";
+		rLen = 0;
+		rLoc = 2474;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 0;
+	};
+	8D1107310486CEB800E47090 /* GeoHex-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 170}, {1158, 603}}";
+		};
+	};
+}
